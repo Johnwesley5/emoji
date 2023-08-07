@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+.face{
+    height: 250px;
+    width: 250px;
+    background-color: #FDCA47;
+    border-radius: 50%;
+    margin-top: 10%;
+    margin-left: 30%;
+    position: relative;
+}
+.Leye{
+    height: 25px;;
+    width: 20px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: black;
+    margin-left: 60px;
+    margin-top: 65px;
+}
+.Reye{
+    height: 25px;;
+    width: 20px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: black;
+    margin-left: 170px;
+    margin-top: 65px;
+}
+.Lpupil{
+    height: 10px;;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: white;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.Rpupil{
+    height: 10px;;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: white;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.mouth{
+    height: 60px;
+    width: 45px;
+    background-color:rgb(10, 10, 10);
+    border-radius: 50%;
+    margin-top: 75px;
+    margin-left: -65px;
+    position: relative;
+}
+.tongue{
+    height: 20px;
+    width: 15px;
+    background-color: rgb(196, 184, 184);
+    border-radius: 50%;
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 30px;
+}
